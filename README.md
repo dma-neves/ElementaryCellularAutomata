@@ -2,7 +2,7 @@
 
 **Description**
   - A simple implementation of a elementary cellular automaton simulator written in C using the CSFML library.
-  - Before running the program will ask for a rule number. Find interesting rule numbers and general information about ECAs at (https://mathworld.wolfram.com/ElementaryCellularAutomaton.html).
+  - Before running the program will ask for a rule number. Find interesting rule numbers and general information about ECAs at (https://mathworld.wolfram.com/ElementaryCellularAutomaton.html). Rule numbers 30 and 110 are 2 good and famous examples.
 
 **Requirements:**
   1. Unix based operating system
