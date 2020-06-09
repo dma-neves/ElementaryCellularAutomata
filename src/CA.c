@@ -24,7 +24,7 @@ void CA_init(int ruleNumber)
     grid[cg_line][WIDTH/2] = 1;
 }
 
-int newCell(int left, int me, int right)
+static int newCell(int left, int me, int right)
 {
     int index = (left << 2) | (me << 1) | right;
 
